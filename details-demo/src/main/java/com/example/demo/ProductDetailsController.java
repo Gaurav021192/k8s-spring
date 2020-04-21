@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author rakesh.a.kumar.nayak
+ * @author g.bisht07
  *
  */
 @RestController
