@@ -4,7 +4,7 @@
 package com.example.demo;
 
 /**
- * @author rakesh.a.kumar.nayak
+ * @author g.bisht07
  *
  */
 public class ProductDetailsDTO {
